@@ -1,5 +1,5 @@
 # TMM
-CITS1401-Project-2
+CITS1401-Project-2  Semester 1 2015
 
 The Twelve Men's Morris is a strategy board game where two players play with 12 identical pieces each. It is believed that the game emerged from the Roman Empire over 2000 years ago. The exact origin of the game is not known as it is played to date in South Africa and some Asian countries. There are many variants and names of the game including "Qat" which means "line".  
 
